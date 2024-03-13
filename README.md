@@ -20,19 +20,20 @@ Aqui está o cronograma das aulas:
 
    - Tópicos: Variáveis e tipos de dados, operadores aritméticos e lógicos, estruturas de controle.
 
-3. **Aula 3: Introdução à Programação Orientada a Objetos**
-
-   - Tópicos: Conceitos de POO (classes, objetos, encapsulamento, herança, polimorfismo), benefícios da POO.
-
-4. **Aula 4: Classes e Objetos em Java**
+4. **Aula 3: Classes e Objetos em Java**
 
    - Tópicos: Declaração de classes e atributos, métodos e construtores, instanciação de objetos.
+
+3. **Aula 4: Introdução à Programação Orientada a Objetos**
+
+   - Tópicos: Conceitos de POO (classes, objetos, encapsulamento, herança, polimorfismo), benefícios da POO.
 
 5. **Aula 5: Herança e Polimorfismo**
 
    - Tópicos: Herança e suas vantagens, polimorfismo e sobrescrita de métodos.
 
 6. **Aula 6: Prática de Programação Orientada a Objetos**
+
    - Tópicos: Revisão dos conceitos de POO, desenvolvimento de um pequeno projeto em Java.
 
 ## Recursos Disponíveis
