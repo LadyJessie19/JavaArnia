@@ -8,7 +8,7 @@
 
 - Breve história do Java
 - Diferença entre linguagem compilada e interpretada
-- JVM(Java Virtual Machine)
+- JVM (Java Virtual Machine)
 
 ## Link para a apresentação
 
