@@ -1,7 +1,13 @@
-# JavaArnia
+# JavaArnia 💻☕💜
 
-## Bem-vindo ao Repositório de Introdução ao Java da Arnia - Escola de Programação
+###### _Pssst! English version of this README is available [here](./EN_US.md)._
 
+## 👋 Bem-vindo ao Repositório de Introdução ao Java da [Arnia - Escola de Programação](https://arnia.com.br/)
+
+<div align=center>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlOG11OG56eTY0Ym4wMHlmOXJpdHRiNzR3bmsxYmh2c2lneDh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WYNPuf7UqQv6gKCyv9/giphy.webp" width=200 />
+</div>
+<br/>
 Este repositório foi criado especialmente para os alunos da Arnia - Escola de Programação que estão participando das aulas de Introdução ao Java. Aqui você encontrará recursos úteis, códigos de exemplo, exercícios práticos e outras informações relacionadas ao curso.
 
 ## Sobre o Curso
@@ -20,11 +26,11 @@ Aqui está o cronograma das aulas:
 
    - Tópicos: Variáveis e tipos de dados, operadores aritméticos e lógicos, estruturas de controle.
 
-4. **Aula 3: Classes e Objetos em Java**
+3. **Aula 3: Classes e Objetos em Java**
 
    - Tópicos: Declaração de classes e atributos, métodos e construtores, instanciação de objetos.
 
-3. **Aula 4: Introdução à Programação Orientada a Objetos**
+4. **Aula 4: Introdução à Programação Orientada a Objetos**
 
    - Tópicos: Conceitos de POO (classes, objetos, encapsulamento, herança, polimorfismo), benefícios da POO.
 
@@ -43,16 +49,16 @@ Neste repositório, você encontrará:
 - Slides das aulas: Apresentações utilizadas durante as aulas para facilitar o entendimento dos conceitos.
 - Exercícios práticos: Exercícios propostos para os alunos praticarem os conceitos aprendidos.
 - Códigos de exemplo: Exemplos de código fonte para ilustrar os conceitos abordados nas aulas.
-- Outros recursos: Links úteis, referências e materiais complementares para ampliar o aprendizado.
+- Outros recursos: Links úteis, referências a livros, artigos, e materiais complementares para aprofundar o conhecimento.
 
 ## Como Contribuir
 
-Caso exista alguma sugestão, dúvida ou deseja contribuir com conteúdo para este repositório, sinta-se à vontade para abrir uma "Issue" ou enviar um "Pull Request". Sua contribuição é muito bem-vinda e ajudará a enriquecer a experiência de aprendizado.
+Se você tem sugestões, dúvidas ou gostaria de contribuir com conteúdo para este repositório, sinta-se à vontade para abrir uma "Issue" ou enviar um "Pull Request". A sua contribuição é muito bem-vinda e ajudará a enriquecer a experiência de aprendizado de todos os alunos.
 
 ## Contato
 
-Se precisar de ajuda ou tiver alguma dúvida relacionada ao curso de Introdução ao Java, não hesite em entrar em contato.
+Precisando de ajuda ou tendo alguma dúvida relacionada ao curso de Introdução ao Java? Fique à vontade para entrar em contato.
 
-Feliz por fazer parte desta jornada de aprendizado! Vamos juntos explorar o mundo fascinante da programação em Java.
+Estamos felizes por fazer parte desta jornada de aprendizado com você! Vamos juntos explorar o mundo fascinante da programação em Java.
 
 Happy coding! 🚀
